@@ -1,6 +1,6 @@
 # IGNITE RIVALS TERMS OF SERVICE
 
-Version 1 · October 20, 2026
+Version 3 · October 28, 2026
 
 These terms are the agreement between you and us for using the IGNITE RIVALS game and its online services (the "game"). Please read them carefully. Nothing in them takes away the rights the consumer protection law of your country gives you.
 
@@ -10,18 +10,21 @@ Summary (it does not replace the full text):
 - The game is free. We give you permission to play it; we do not sell you the game or the items.
 - Gems, coins and items are not money, cannot be moved to another account and are not refunded, except where the law or the store requires it.
 - Real-money purchases are made on the App Store or Google Play.
+- There are crates with random items: you earn them by levelling up or buy them with gems, and you see the odds of each rarity before you buy. They never give duplicates.
 - Play fair: no cheating, abuse or insults. Otherwise we may suspend or close your account.
 - Some casual and practice matches include bots (players controlled by the game). Competitive matches are players only.
 - The game has flashes and flickering lights: read the health warning.
 - You can delete your account at any time from the game.
 
+**Offline edition.** Until the game has its online services, the store version plays only on your phone: it has no accounts, online matches, friends, ranks or real-money purchases, quick chat only reaches the bots in the match, and crates are only earned by levelling up. The parts of these terms about those features will apply when they arrive with an update, and we will then ask you to accept the terms again. Its privacy policy is the offline edition's.
+
 ## 1. Who we are and how you accept these terms
 
 The game is offered by:
 
-[NOMBRE COMPLETO], an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
+Diego Gomez de la Rosa, an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
 
-Address for legal notices: [POR COMPLETAR: dirección] · Phone: [POR COMPLETAR: teléfono] · Email: [POR COMPLETAR: correo de contacto]
+Address for legal notices: [POR COMPLETAR: dirección] · Phone: [POR COMPLETAR: teléfono] · Email: ignitetech.cote@gmail.com
 
 By tapping "Accept and continue" when you enter the game, or by using it, you accept these terms and our Privacy Policy. If you do not agree, do not use the game.
 
@@ -53,7 +56,7 @@ You may not copy, sell, rent or distribute the game; modify it, decompile it or 
 
 ## 6. Coins, gems and virtual items
 
-- The game has coins (earned by playing), gems (earned or bought) and virtual items such as cars, paints, wheels, boosts, trails, titles and the premium Ignite Pass.
+- The game has coins (earned by playing), gems (earned or bought) and virtual items such as cars, paints, wheels, boosts, trails, titles, crates and the premium Ignite Pass.
 - What you get is a permission to use them inside the game, not ownership. They have no money value, cannot be exchanged for money or for anything outside the game, and cannot be transferred or sold to another account.
 - Purchased gems do not expire while your account and the game exist.
 - Items are cosmetic: they give no advantage in the game.
@@ -61,12 +64,22 @@ You may not copy, sell, rent or distribute the game; modify it, decompile it or 
 - Buying, selling or trading accounts, gems or items outside the game is forbidden.
 - Unless the law of your country or the store requires otherwise, purchases are not refunded and cannot be exchanged.
 
+**Crates (random items)**
+
+- A crate gives one random cosmetic item. You earn crates by levelling up (and get one as a welcome gift), and you can also buy them with gems.
+- Before you buy a crate, the game shows you the chance of each rarity (common, rare, epic, legendary and exotic) and the items it can give. The odds are the same for everyone; if they ever change, you will see it in the game before you buy.
+- Our server makes the draw when you open the crate: first the rarity, then an item of that rarity you do not have yet, so a crate never gives you a duplicate. If you already have every item of the rarity drawn, you get coins instead (the amount is shown in the game).
+- Guarantee: after 30 crates in a row without a legendary or exotic item, the next one is legendary or exotic.
+- Crates and what they contain are virtual items like the others: they have no money value, cannot be exchanged for money or sold, and give no advantage in the game.
+- In countries where the law does not allow selling boxes with random prizes (for example Belgium and Brazil), crates are not sold for gems; the ones you earn by playing can still be opened.
+- If you are a minor, ask your parent or legal guardian for permission before buying gems or crates.
+
 ## 7. Purchases on the App Store and Google Play
 
 - Real-money purchases (gem packs) are made through Apple's App Store or Google Play, with their payment methods and their terms. We never see or keep your payment details.
 - Prices are shown in the store in your country's currency, with any applicable taxes.
 - The premium Ignite Pass is unlocked with gems and lasts one season. It is not a subscription and does not renew by itself.
-- We do not sell boxes or packs with random prizes: you always know what you are buying.
+- Crates with random items can also be bought with gems; you see the odds of each rarity before you buy (section 6).
 - Refunds of real-money purchases are decided by the store under its own rules: for Apple, at reportaproblem.apple.com; for Google Play, in the Google Play help center. If the store refunds you, we may remove the gems or items from that purchase.
 - If a purchase does not reach you, write to us with the receipt and we will fix it.
 
@@ -102,7 +115,7 @@ We want fair matches and a good atmosphere. It is forbidden to:
 - sell, buy or share accounts, gems or items outside the game;
 - do anything illegal or that infringes other people's rights.
 
-If you see someone breaking these rules, you can report them by writing to [POR COMPLETAR: correo de contacto] with their player name or friend code.
+If you see someone breaking these rules, you can report them by writing to ignitetech.cote@gmail.com with their player name or friend code.
 
 ## 11. Moderation, suspensions and bans
 
@@ -149,7 +162,7 @@ To the extent the law allows, if someone makes a claim against us because you br
 ## 17. Governing law and disputes
 
 - These terms are governed by the laws of Colombia, in particular the Consumer Statute (Law 1480 of 2011).
-- If you have a problem, write to us first at [POR COMPLETAR: correo de contacto]: we will answer within 15 business days at most.
+- If you have a problem, write to us first at ignitetech.cote@gmail.com: we will answer within 15 business days at most.
 - If we cannot solve it, you can go to the Superintendence of Industry and Commerce (SIC) or to the competent courts of Colombia.
 - However, if you are a consumer and live in another country, you keep the protection of your country's laws that cannot be waived and you can go to the courts and consumer authorities of your country. If you live in the European Union, we can only bring a claim against you in the courts of your country.
 
@@ -182,4 +195,4 @@ We may change these terms to reflect changes in the game or in the law. Each ver
 
 ## 21. Contact
 
-Write to us at [POR COMPLETAR: correo de contacto]. Our details are in section 1.
+Write to us at ignitetech.cote@gmail.com. Our details are in section 1.

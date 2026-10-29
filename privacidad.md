@@ -10,10 +10,10 @@ Resumen: guardamos lo necesario para que tengas una cuenta, tu progreso y partid
 
 Responsable del tratamiento:
 
-[NOMBRE COMPLETO], persona natural, identificado con [POR COMPLETAR: cédula o NIT], con domicilio en [CIUDAD], Colombia («nosotros»).
+Diego Gomez de la Rosa, persona natural, identificado con [POR COMPLETAR: cédula o NIT], con domicilio en [CIUDAD], Colombia («nosotros»).
 
 - Dirección: [POR COMPLETAR: dirección] · Teléfono: [POR COMPLETAR: teléfono]
-- Correo para todo lo relacionado con tus datos: [POR COMPLETAR: correo de contacto]
+- Correo para todo lo relacionado con tus datos: ignitetech.cote@gmail.com
 - Quién atiende tus peticiones, consultas y reclamos: el área de Atención al jugador, en ese correo.
 - Representante en la Unión Europea: [POR COMPLETAR: nombre y dirección, o borrar esta línea si un abogado confirma que no hace falta]
 
@@ -89,7 +89,7 @@ Puedes, sin coste:
 - recibir tus datos en un formato que puedas llevarte (portabilidad);
 - quejarte ante la autoridad de protección de datos: en Colombia, la Superintendencia de Industria y Comercio (SIC); en España, la Agencia Española de Protección de Datos (AEPD); en otros países, la autoridad de tu país.
 
-Cómo hacerlo: escríbenos a [POR COMPLETAR: correo de contacto] con el asunto «Datos personales», desde el correo de tu cuenta o indicando tu código de amigo (aparece en tu perfil). Podemos pedirte algún dato para comprobar que la cuenta es tuya.
+Cómo hacerlo: escríbenos a ignitetech.cote@gmail.com con el asunto «Datos personales», desde el correo de tu cuenta o indicando tu código de amigo (aparece en tu perfil). Podemos pedirte algún dato para comprobar que la cuenta es tuya.
 
 Plazos: respondemos las consultas en un máximo de 10 días hábiles (ampliables 5 más si te avisamos) y los reclamos, como pedir una corrección o el borrado, en un máximo de 15 días hábiles (ampliables 8 más si te avisamos). En Colombia, antes de acudir a la SIC hay que presentar primero la petición ante nosotros.
 
@@ -98,7 +98,7 @@ Plazos: respondemos las consultas en un máximo de 10 días hábiles (ampliables
 ## 10. Cómo borrar tu cuenta
 
 - Dentro del juego: Ajustes › Cuenta › Borrar cuenta. Tras confirmar dos veces, borramos al momento tu cuenta y tus datos de nuestro servidor. No se puede deshacer: pierdes tu progreso, tus objetos y las gemas que no hayas gastado.
-- Sin el juego (por ejemplo, si ya lo desinstalaste): escribe a [POR COMPLETAR: correo de contacto] con el asunto «Borrar cuenta» e indica tu código de amigo o el correo de tu cuenta. Te confirmaremos el borrado en un máximo de 15 días hábiles.
+- Sin el juego (por ejemplo, si ya lo desinstalaste): escribe a ignitetech.cote@gmail.com con el asunto «Borrar cuenta» e indica tu código de amigo o el correo de tu cuenta. Te confirmaremos el borrado en un máximo de 15 días hábiles.
 - Desinstalar el juego no borra tu cuenta del servidor.
 - Después solo queda lo que explica el punto 6: la huella de los recibos de compra, sin tu cuenta, y lo que la ley nos obligue a conservar.
 
@@ -108,6 +108,6 @@ Si cambiamos esta política, publicaremos la nueva versión con su número y su 
 
 ## 12. Contacto
 
-Escríbenos a [POR COMPLETAR: correo de contacto]. Los datos de quien ofrece el juego están en el punto 1.
+Escríbenos a ignitetech.cote@gmail.com. Los datos de quien ofrece el juego están en el punto 1.
 
 Esta política entra en vigencia el [POR COMPLETAR: fecha de publicación] y se aplica mientras la base de datos del juego esté vigente (punto 6).

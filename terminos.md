@@ -1,6 +1,6 @@
 # TÉRMINOS Y CONDICIONES DE IGNITE RIVALS
 
-Versión 1 · 20 de octubre de 2026
+Versión 3 · 28 de octubre de 2026
 
 Estos términos son el acuerdo entre tú y nosotros para usar el juego IGNITE RIVALS y sus servicios online (el «juego»). Léelos con calma. Nada de lo que dicen te quita los derechos que te da la ley de protección del consumidor de tu país.
 
@@ -10,18 +10,21 @@ Resumen (no sustituye el texto completo):
 - El juego es gratis. Te damos permiso para jugarlo; no te vendemos el juego ni los objetos.
 - Las gemas, las monedas y los objetos no son dinero, no se pueden pasar a otra cuenta y no se devuelven, salvo cuando la ley o la tienda lo exijan.
 - Las compras con dinero real se hacen en la App Store o en Google Play.
+- Hay cajas con objetos al azar: se ganan subiendo de nivel o se compran con gemas, y antes de comprar ves la probabilidad de cada rareza. Nunca dan objetos repetidos.
 - Juega limpio: nada de trampas, abusos ni insultos. Si no, podemos suspender o cerrar tu cuenta.
 - Algunas partidas casuales y de práctica incluyen bots (jugadores controlados por el juego). En el modo competitivo solo juegan personas.
 - El juego tiene destellos y luces intermitentes: lee el aviso de salud.
 - Puedes borrar tu cuenta cuando quieras desde el juego.
 
+**Versión sin conexión.** Hasta que el juego tenga sus servicios online, la versión de las tiendas se juega solo en tu teléfono: no tiene cuentas, partidas online, amigos, rangos ni compras con dinero real, el chat rápido solo lo ven los bots del partido y las cajas solo se ganan subiendo de nivel. Las partes de estos términos sobre esas funciones se aplicarán cuando lleguen con una actualización, y entonces te pediremos que aceptes los términos de nuevo. Su política de privacidad es la de la versión sin conexión.
+
 ## 1. Quiénes somos y cómo aceptas estos términos
 
 El juego lo ofrece:
 
-[NOMBRE COMPLETO], persona natural, identificado con [POR COMPLETAR: cédula o NIT], con domicilio en [CIUDAD], Colombia («nosotros»).
+Diego Gomez de la Rosa, persona natural, identificado con [POR COMPLETAR: cédula o NIT], con domicilio en [CIUDAD], Colombia («nosotros»).
 
-Dirección de notificación judicial: [POR COMPLETAR: dirección] · Teléfono: [POR COMPLETAR: teléfono] · Correo: [POR COMPLETAR: correo de contacto]
+Dirección de notificación judicial: [POR COMPLETAR: dirección] · Teléfono: [POR COMPLETAR: teléfono] · Correo: ignitetech.cote@gmail.com
 
 Al tocar «Acepto y continuar» al entrar en el juego, o al usarlo, aceptas estos términos y nuestra Política de privacidad. Si no estás de acuerdo, no uses el juego.
 
@@ -53,7 +56,7 @@ No puedes copiar, vender, alquilar ni distribuir el juego; ni modificarlo, desco
 
 ## 6. Monedas, gemas y objetos virtuales
 
-- En el juego hay monedas (se ganan jugando), gemas (se ganan o se compran) y objetos virtuales como autos, pinturas, ruedas, turbos, estelas, títulos y el Ignite Pass premium.
+- En el juego hay monedas (se ganan jugando), gemas (se ganan o se compran) y objetos virtuales como autos, pinturas, ruedas, turbos, estelas, títulos, cajas y el Ignite Pass premium.
 - Lo que obtienes es un permiso para usarlos dentro del juego, no la propiedad. No tienen valor en dinero, no se pueden cambiar por dinero ni por nada fuera del juego y no se pueden pasar ni vender a otra cuenta.
 - Las gemas compradas no caducan mientras tu cuenta y el juego existan.
 - Los objetos son estéticos: no dan ventajas en el juego.
@@ -61,12 +64,22 @@ No puedes copiar, vender, alquilar ni distribuir el juego; ni modificarlo, desco
 - Está prohibido comprar, vender o intercambiar cuentas, gemas u objetos fuera del juego.
 - Salvo que la ley de tu país o la tienda exijan otra cosa, las compras no se devuelven y no se pueden cambiar.
 
+**Cajas (objetos al azar)**
+
+- Una caja da un objeto estético al azar. Las cajas se ganan al subir de nivel (y hay una de regalo al empezar) y también se pueden comprar con gemas.
+- Antes de comprar una caja, el juego te muestra la probabilidad de cada rareza (común, raro, épico, legendario y exótico) y los objetos que puede dar. Las probabilidades son las mismas para todos; si algún día cambian, lo verás en el juego antes de comprar.
+- El sorteo lo hace nuestro servidor cuando abres la caja: primero la rareza y luego un objeto de esa rareza que todavía no tengas, así que una caja nunca te da un objeto repetido. Si ya tienes todos los objetos de la rareza que salió, recibes monedas en su lugar (la cantidad se muestra en el juego).
+- Garantía: si abres 30 cajas seguidas sin un objeto legendario ni exótico, la siguiente es legendaria o exótica.
+- Las cajas y lo que traen son objetos virtuales como los demás: no tienen valor en dinero, no se pueden cambiar por dinero ni vender, y no dan ventajas en el juego.
+- En los países donde la ley no permite vender cajas con premios al azar (por ejemplo, Bélgica y Brasil), no se venden con gemas; las que ganas jugando sí se pueden abrir.
+- Si eres menor de edad, pide permiso a tu padre, madre o representante legal antes de comprar gemas o cajas.
+
 ## 7. Compras en la App Store y en Google Play
 
 - Las compras con dinero real (paquetes de gemas) se hacen a través de la App Store de Apple o de Google Play, con sus métodos de pago y sus condiciones. Nosotros no vemos ni guardamos tus datos de pago.
 - Los precios se muestran en la tienda en la moneda de tu país, con los impuestos que correspondan.
 - El Ignite Pass premium se desbloquea con gemas y dura una temporada. No es una suscripción y no se renueva solo.
-- No vendemos cajas ni sobres con premios al azar: siempre sabes qué compras.
+- Las cajas con objetos al azar también se pueden comprar con gemas; antes de comprar ves la probabilidad de cada rareza (punto 6).
 - Las devoluciones de compras con dinero real las decide la tienda según sus normas: para Apple, en reportaproblem.apple.com; para Google Play, en la ayuda de Google Play. Si la tienda te devuelve el dinero, podemos retirar las gemas u objetos de esa compra.
 - Si una compra no te llega, escríbenos con el recibo y lo solucionamos.
 
@@ -102,7 +115,7 @@ Queremos partidas limpias y un buen ambiente. Está prohibido:
 - vender, comprar o compartir cuentas, gemas u objetos fuera del juego;
 - hacer cualquier cosa ilegal o que infrinja derechos de otros.
 
-Si ves a alguien que incumple estas normas, puedes denunciarlo escribiéndonos a [POR COMPLETAR: correo de contacto] con su nombre de jugador o su código de amigo.
+Si ves a alguien que incumple estas normas, puedes denunciarlo escribiéndonos a ignitetech.cote@gmail.com con su nombre de jugador o su código de amigo.
 
 ## 11. Moderación, suspensión y baneos
 
@@ -149,7 +162,7 @@ En la medida en que la ley lo permite, si alguien nos reclama porque tú incumpl
 ## 17. Ley aplicable y disputas
 
 - Estos términos se rigen por las leyes de Colombia, en especial el Estatuto del Consumidor (Ley 1480 de 2011).
-- Si tienes un problema, escríbenos primero a [POR COMPLETAR: correo de contacto]: te responderemos en un máximo de 15 días hábiles.
+- Si tienes un problema, escríbenos primero a ignitetech.cote@gmail.com: te responderemos en un máximo de 15 días hábiles.
 - Si no lo resolvemos, puedes acudir a la Superintendencia de Industria y Comercio (SIC) o a los jueces competentes de Colombia.
 - Pero si eres consumidor y vives en otro país, conservas la protección de las leyes de tu país que no se pueden renunciar y puedes acudir a los jueces y a las autoridades de consumo de tu país. Si vives en la Unión Europea, solo podemos reclamarte ante los jueces de tu país.
 
@@ -182,4 +195,4 @@ Podemos cambiar estos términos para reflejar cambios en el juego o en la ley. C
 
 ## 21. Contacto
 
-Escríbenos a [POR COMPLETAR: correo de contacto]. Los datos de quien ofrece el juego están en el punto 1.
+Escríbenos a ignitetech.cote@gmail.com. Los datos de quien ofrece el juego están en el punto 1.

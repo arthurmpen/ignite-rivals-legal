@@ -10,10 +10,10 @@ In short: we keep what is needed for your account, your progress and online matc
 
 Data controller:
 
-[NOMBRE COMPLETO], an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
+Diego Gomez de la Rosa, an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
 
 - Address: [POR COMPLETAR: dirección] · Phone: [POR COMPLETAR: teléfono]
-- Email for anything about your data: [POR COMPLETAR: correo de contacto]
+- Email for anything about your data: ignitetech.cote@gmail.com
 - Who handles your requests, questions and complaints: our Player Support team, at that email.
 - Representative in the European Union: [POR COMPLETAR: nombre y dirección, o borrar esta línea si un abogado confirma que no hace falta]
 
@@ -89,7 +89,7 @@ Free of charge, you can:
 - receive your data in a format you can take with you (portability);
 - complain to the data protection authority: in Colombia, the Superintendence of Industry and Commerce (SIC); in Spain, the Spanish Data Protection Agency (AEPD); elsewhere, the authority of your country.
 
-How: write to [POR COMPLETAR: correo de contacto] with the subject "Personal data", from your account's email or including your friend code (shown on your profile). We may ask for some information to check that the account is yours.
+How: write to ignitetech.cote@gmail.com with the subject "Personal data", from your account's email or including your friend code (shown on your profile). We may ask for some information to check that the account is yours.
 
 Deadlines: we answer questions within 10 business days at most (5 more if we tell you) and complaints, such as asking for a correction or deletion, within 15 business days at most (8 more if we tell you). In Colombia, before going to the SIC you must first file the request with us.
 
@@ -98,7 +98,7 @@ Deadlines: we answer questions within 10 business days at most (5 more if we tel
 ## 10. How to delete your account
 
 - In the game: Settings › Account › Delete account. Once you confirm twice, we immediately delete your account and your data from our server. It cannot be undone: you lose your progress, your items and any gems you have not spent.
-- Without the game (for example, if you already uninstalled it): write to [POR COMPLETAR: correo de contacto] with the subject "Delete account" and include your friend code or your account's email. We will confirm the deletion within 15 business days at most.
+- Without the game (for example, if you already uninstalled it): write to ignitetech.cote@gmail.com with the subject "Delete account" and include your friend code or your account's email. We will confirm the deletion within 15 business days at most.
 - Uninstalling the game does not delete your account from the server.
 - Afterwards only what section 6 explains remains: the purchase receipt fingerprints, without your account, and whatever the law requires us to keep.
 
@@ -108,6 +108,6 @@ If we change this policy, we will publish the new version with its number and da
 
 ## 12. Contact
 
-Write to us at [POR COMPLETAR: correo de contacto]. Our details are in section 1.
+Write to us at ignitetech.cote@gmail.com. Our details are in section 1.
 
 This policy comes into force on [POR COMPLETAR: fecha de publicación] and applies for as long as the game's database remains in force (section 6).
