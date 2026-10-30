@@ -2,19 +2,13 @@
 
 Version 1 · October 28, 2026
 
-This is the policy of the offline edition of IGNITE RIVALS (the "game"): the one you play only on your phone, with no accounts, no online matches and no real-money purchases. It explains what data the game processes, what for and what rights you have. It is also our data processing policy under Colombian Law 1581 of 2012 and its regulations, and it includes what the European Union General Data Protection Regulation (GDPR) requires.
+This is the policy of the offline edition of IGNITE RIVALS (the "game"): the one you play only on your phone, with no accounts, no online matches and no real-money purchases. It explains what data the game processes, what for and what rights you have.
 
 In short: the game sends us no data. Your progress is saved on your phone only. There are no accounts, ads, analytics or tracking tools, and we do not sell data.
 
-## 1. Who is responsible for your data
+## 1. Who offers the game
 
-Data controller:
-
-Diego Gomez de la Rosa, an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
-
-- Address: [POR COMPLETAR: dirección] · Phone: [POR COMPLETAR: teléfono]
-- Email for anything about your data: ignitetech.cote@gmail.com
-- Who handles your requests, questions and complaints: Player Support, at that email.
+Diego Gomez de la Rosa, based in Colombia ("we", "us"). For any question about your data or the game, email us at ignitetech.cote@gmail.com.
 
 ## 2. What data the game processes
 
@@ -27,8 +21,6 @@ Diego Gomez de la Rosa, an individual (natural person), ID [POR COMPLETAR: cédu
 
 - The data on your phone is only used to make the game work: to keep your progress and your settings. Since it does not leave your phone, we do not use it for anything else.
 - Crash reports that Apple or Google give us: to find and fix bugs. Basis: our legitimate interest in the game working well (GDPR art. 6.1.f).
-
-Authorization (Colombia): by accepting this policy when you enter the game, you give us your prior, express and informed authorization for these uses, as Law 1581 of 2012 requires. You can withdraw it at any time by deleting the game.
 
 ## 4. Who we share your data with
 
@@ -51,7 +43,7 @@ The game's data stays in the app's own storage, which your phone's system keeps 
 
 ## 8. Your rights
 
-You can, free of charge, know, update, correct and ask for the deletion of your data, withdraw your authorization, ask for proof of it and complain to the data protection authority: in Colombia, the Superintendencia de Industria y Comercio (SIC); in Spain, the Agencia Española de Protección de Datos (AEPD); elsewhere, the authority of your country.
+You can, free of charge, know, update, correct and ask for the deletion of your data and complain to the data protection authority: in Colombia, the Superintendencia de Industria y Comercio (SIC); in Spain, the Agencia Española de Protección de Datos (AEPD); elsewhere, the authority of your country.
 
 Since your data is on your phone and not with us, you control it: your name is changed in the game (Profile) and all your progress is deleted when you delete the game. For any question or complaint, write to ignitetech.cote@gmail.com with the subject "Personal data". We answer questions within 10 business days (5 more if we tell you) and complaints within 15 business days (8 more if we tell you). In Colombia, a request must first be made to us before going to the SIC.
 

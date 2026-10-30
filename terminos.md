@@ -22,9 +22,9 @@ Resumen (no sustituye el texto completo):
 
 El juego lo ofrece:
 
-Diego Gomez de la Rosa, persona natural, identificado con [POR COMPLETAR: cédula o NIT], con domicilio en [CIUDAD], Colombia («nosotros»).
+Diego Gomez de la Rosa, persona natural, con domicilio en Colombia («nosotros»).
 
-Dirección de notificación judicial: [POR COMPLETAR: dirección] · Teléfono: [POR COMPLETAR: teléfono] · Correo: ignitetech.cote@gmail.com
+Correo: ignitetech.cote@gmail.com
 
 Al tocar «Acepto y continuar» al entrar en el juego, o al usarlo, aceptas estos términos y nuestra Política de privacidad. Si no estás de acuerdo, no uses el juego.
 

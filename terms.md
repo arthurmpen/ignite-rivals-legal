@@ -22,9 +22,9 @@ Summary (it does not replace the full text):
 
 The game is offered by:
 
-Diego Gomez de la Rosa, an individual (natural person), ID [POR COMPLETAR: cédula o NIT], domiciled in [CIUDAD], Colombia ("we", "us").
+Diego Gomez de la Rosa, an individual (natural person), based in Colombia ("we", "us").
 
-Address for legal notices: [POR COMPLETAR: dirección] · Phone: [POR COMPLETAR: teléfono] · Email: ignitetech.cote@gmail.com
+Email: ignitetech.cote@gmail.com
 
 By tapping "Accept and continue" when you enter the game, or by using it, you accept these terms and our Privacy Policy. If you do not agree, do not use the game.
 
